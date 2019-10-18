@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Organizer
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.6.
@@ -25,3 +26,7 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+=======
+# organizer
+angular8/firebase
+>>>>>>> 26a30650af37f01850c338a93fea090e903952cf
